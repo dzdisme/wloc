@@ -2,9 +2,7 @@
 
 # WLOC 社区维护版
 
-基于 Yu9191/wloc 恢复的 Apple 网络定位修改工具。通过 Surge、Quantumult X、Loon、Stash 或 Shadowrocket 拦截 Wi-Fi/基站定位响应，配合网页选点和本地持久化存储使用。
-
-本分支保留上游作者及贡献者记录，以 `529fcd8`（2026-09-04）为恢复基线。它不是原作者官方仓库，也不能修改 GPS 硬件定位。
+基于 Yu9191/wloc 恢复的 Apple 网络定位修改工具。
 
 
 ## 致谢
