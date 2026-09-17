@@ -16,8 +16,6 @@
 | Shadowrocket | [https://raw.githubusercontent.com/dzdisme/wloc/refs/heads/main/modules/wloc.module](https://raw.githubusercontent.com/dzdisme/wloc/refs/heads/main/modules/wloc.module) |
 
 
-[浏览源码](https://github.com/xepes0/wloc) · [部署到 Cloudflare Workers](https://deploy.workers.cloudflare.com/?url=https://github.com/xepes0/wloc/tree/main/worker)
-<!-- subscriptions:end -->
 
 Egern 沿用上游 Surge 模块兼容说明，尚未单独复核。Stash 使用原生 `.stoverride`。
 
