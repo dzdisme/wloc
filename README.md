@@ -1,4 +1,4 @@
-<p align="center"><img src="wloc.jpg" width="144" alt="WLOC 图标" /></p>
+
 
 # WLOC 社区维护版
 
